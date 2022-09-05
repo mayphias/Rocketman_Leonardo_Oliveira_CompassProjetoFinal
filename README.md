@@ -87,8 +87,6 @@ Na pasta principal se encontram:
 
 * **Leonardo da Silva Oliveira** - *04/09/2022* - [Link para a raiz do projeto no git](https://github.com/mayphias/Rocketman_Leonardo_Oliveira_CompassProjetoFinal)
 
-Shoutout para: rafaelcastrocouto -> https://stackoverflow.com/questions/3959211/what-is-the-fastest-factorial-function-in-javascript que parte do código ideia da parte de fatorial da calculadora utilizada no teste foi retirado do comentário dele.
-
 
 ## License
 
